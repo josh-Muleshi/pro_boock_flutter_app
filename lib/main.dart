@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'SideBar/sidebar_layout.dart';
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
